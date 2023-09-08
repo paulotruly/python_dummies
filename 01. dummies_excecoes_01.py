@@ -1,6 +1,5 @@
 while True: 
     
-    
     try: 
         valor = float(input("Digite um número de 1 a 10: "))
     except ValueError:
